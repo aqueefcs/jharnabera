@@ -1,5 +1,5 @@
 :root{
-	/*--mainColor:#606B56;
+	--mainColor:#606B56;
 	--secondaryColor:#515a48;
 
 	--borderColor:#161914;
@@ -13,12 +13,12 @@
 	--previewShadow:#2a2f25;
 
 
-	--buttonColor:#669966;*/
+	--buttonColor:#669966;
 	
-	--mainColor: #9EC9A8;
+	/*--mainColor: #9EC9A8;
 	--mainShadow:    12px 12px 24px #99c3a3, 
              -12px -12px 24px #a3cfad;
-    --mainRadius: 5px 5px 0 0;
+    	--mainRadius: 5px 5px 0 0;
 
 
 	--secondaryColor: #b7e6c2;
@@ -39,7 +39,7 @@
 	--inputField:  inset 8px 8px 24px #b0ddba, 
             inset -8px -8px 24px #beefca;
 
-	--buttonColor: #9EC9A8;
+	--buttonColor: #9EC9A8;*/
 
 
 
