@@ -37,7 +37,7 @@
 	<div class="nav-wrapper">
 
 		<!-- Link around dots-wrapper added after tutorial video -->
-		<a href="index.html">
+		<a href="index.php">
 			<div class="dots-wrapper">
 				<div id="dot-1" class="browser-dot"></div>
 				<div id="dot-2" class="browser-dot"></div>
@@ -46,7 +46,7 @@
 		</a>
 
 		<ul id="navigation">
-			<li><a href="index.html#cont">Contact</a></li>
+			<li><a href="index.php#cont">Contact</a></li>
 
 		</ul>
 	</div>
@@ -478,7 +478,7 @@
 
 		  <!-- Copyright -->
 		  <div class="footer-copyright text-center py-3">© 2020 Copyright:
-		    <a href="index.html"> jharnabera</a>
+		    <a href="index.php"> jharnabera</a>
 		  </div>
 		  <!-- Copyright -->
 
