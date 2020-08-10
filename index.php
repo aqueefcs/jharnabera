@@ -4,7 +4,8 @@
 	<title>Jharna Bera</title>
 
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" /><meta name="google-site-verification" content="ZBeaB72BmlAxmjD-ZG56aWvmwqfuyALrZekpi42GH30" />
+	<meta name="google-site-verification" content="ZBeaB72BmlAxmjD-ZG56aWvmwqfuyALrZekpi42GH30" />
 
 	<link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
 
@@ -20,6 +21,7 @@
 
 	<link rel="stylesheet" type="text/css" href="default.css">
 	<link id="theme-style" rel="stylesheet" type="text/css" href="">
+	
 </head>
 <body>
 
