@@ -275,7 +275,7 @@
 
 					</div>
 					<!-- Card deck -->
-					<a href="post.html"><h3 class="text-center">Check All the certificates <i class="fas fa-angle-double-right"></i></h3></a>
+					<a href="post.php"><h3 class="text-center">Check All the certificates <i class="fas fa-angle-double-right"></i></h3></a>
 					<hr class="my-5">
 		
 		</div>
