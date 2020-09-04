@@ -59,7 +59,7 @@
 			<div class="col-md-4">
 				<div class="text-center">
 					<i class="fas fa-award fa-2x text-danger"></i>
-					<h2 class="timer count-title count-number text-warning" data-to="14" data-speed="900"></h2>
+					<h2 class="timer count-title count-number text-warning" data-to="20" data-speed="900"></h2>
 				</div>
 			</div>
 			<div class="col-md-4"></div>
