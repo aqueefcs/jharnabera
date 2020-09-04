@@ -5,7 +5,7 @@
 
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
-	<meta name="google-site-verification" content="ZBeaB72BmlAxmjD-ZG56aWvmwqfuyALrZekpi42GH30" />
+	<meta name="google-site-verification" content="1Z_rMs1cZL6Z0jn1rR32UWekFB_EXpqhM59FRTpZZ4s" />
 	
 
 	<link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
