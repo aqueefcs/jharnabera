@@ -47,7 +47,7 @@
 					
 
 					<ul id="navigation">
-						<li><a href="index.html#cont">Contact</a></li>
+						<li><a href="index.php#cont">Contact</a></li>
 
 					</ul>
 				</div>
